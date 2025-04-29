@@ -8,4 +8,4 @@ AI for Public Health Professionals - Summer School
 
 [**Revised Detailed Agenda Document**](https://docs.google.com/document/d/1dI_kjMYboSqlblAP9Dqm2XoyaA19uklO0C1DGhENA6k/edit?tab=t.0#heading=h.fzsv2nnr8z54)
 
-[**AI Tools**](https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki)
+[**AI Tools Wiki**](https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki)
