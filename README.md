@@ -1,5 +1,5 @@
-# AI-for-Professionals
-AI for Public Institutions Staff 
+# AI Toolkit for Professionals
+AI Tools for Public Institutions Staff 
 
 
 ## Agenda
