@@ -1,5 +1,5 @@
-# AI-for-Public-Health-Professionals
-AI for Public Health Professionals - Summer School
+# AI-for-Professionals
+AI for Public Institutions Staff 
 
 
 ## Agenda
