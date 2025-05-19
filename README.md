@@ -8,4 +8,4 @@ AI for Public Institutions Staff
 
 [**Revised Detailed Agenda Document**](https://docs.google.com/document/d/1dI_kjMYboSqlblAP9Dqm2XoyaA19uklO0C1DGhENA6k/edit?tab=t.0#heading=h.fzsv2nnr8z54)
 
-[**AI Tools Wiki**](https://github.com/ua-datalab/AI-for-Public-Health-Professionals/wiki)
+[**AI Toolkit Wiki**](https://github.com/ua-datalab/AI-for-Professionals/wiki)
