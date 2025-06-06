@@ -28,7 +28,7 @@ AI Tools for Public Institutions Staff
 **Materials**
 * [**AI & Data in Public Health: A Non-Coder's Toolkit!**](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga.
 * [**Ethics of Artificial Intelligence**](https://tyson-swetnam.github.io/intro-gpt/ethics/). Tyson Swetnam.
-* [**Geospatial Analysis in Public Health**](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/gis/)
+* [**Geospatial Analysis in Public Health**](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/gis/). Tyson Swetnam.
 * [**Public Health**](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/casestudy/). Tyson Swetnam.
 
 ***
