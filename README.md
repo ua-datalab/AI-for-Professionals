@@ -24,9 +24,12 @@ AI Tools for Public Institutions Staff
 ## Link to resources
 * [**Public Health & AI Summer School Event**](https://www.eventbrite.com/e/public-health-ai-summer-school-registration-1343451592879)
 * [**Download: Detailed Agenda Document**](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/digital%20booklet%20FINAL_.pdf)
+* **Materials**
 * [**AI & Data in Public Health: A Non-Coder's Toolkit!**](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga.
-* [**Public Health**](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/casestudy/). Tyson Swetnam.
 * [**Ethics of Artificial Intelligence**](https://tyson-swetnam.github.io/intro-gpt/ethics/). Tyson Swetnam.
+* [**Geospatial Analysis in Public Health**](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/gis/)
+* [**Public Health**](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/casestudy/). Tyson Swetnam.
+
 ***
  
 Created: (04/15/2025) C. Lizárraga
