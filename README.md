@@ -9,8 +9,8 @@ AI Tools for Public Institutions Staff
 
 | Day | Talk | Instructors |
 | :--: | :-- | :-- |
-| Jun 9 | What is AI? Fundamentals for Public Health. | Enrique Noriega |
-| Jun 10 | Introduction to Key Data Concepts and Technologies (Non-Coding Focus) | Carlos Lizárraga |
+| Jun 9 | [What is AI? Fundamentals for Public Health.](https://docs.google.com/presentation/d/1zrspjJogSKOwRkSUx5PEYGVALRiQDPVW/edit?usp=sharing&ouid=106517198578585394777&rtpof=true&sd=true) | Enrique Noriega |
+| Jun 10 | [Introduction to Key Data Concepts and Technologies (Non-Coding Focus)](https://docs.google.com/presentation/d/1oFkldvTR899ZIrZZlzNthQhcqkBlO5H-ay_5lLrTg0A/edit?usp=sharing) | Carlos Lizárraga |
 |        | Creating reproducible analysis workflows (Lite-Coding focus) | Michele Cosi |
 |        | Geospatial Analysis and AI in Public Health | Tyson Swetnam |
 | Jun 11 | Ethical and Legal Considerations | Tyson Swetnam |
