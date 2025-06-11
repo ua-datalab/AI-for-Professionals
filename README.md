@@ -20,6 +20,17 @@ AI Tools for Public Institutions Staff
  |  | Digital Biomarkers Applications in Public Health | Shravan Aras |
 
 ***
+Day |  Time |  Program   | Speakers |
+| :--: | :--: | :--  |  :-- |
+| Jun 10 | 9:00 - 9:30 | Welcome remarks & Summer School overview | Dean Iman Hakim, Nirav Merchant, Onicio B. Leal Neto |
+|        | 9:30 - 10:30 | Digital Public Health & Digital Epidemiology | Onicio B. Leal Neto |
+|        | 10:30 - 11:00 | Break |  |
+|        | 11:00 - 12:30 | What is Al? Fundamentals for Public Health | Enrique Noriega |
+|        | 12:30 - 1:30 | Lunch |    |
+|        | 1:30 - 4:30  | Al Maker Space I: Building Public Health Al agents |  Onicio B. Leal Neto |
+
+
+***
 
 ## Link to resources
 * [**Public Health & AI Summer School Event**](https://www.eventbrite.com/e/public-health-ai-summer-school-registration-1343451592879)
