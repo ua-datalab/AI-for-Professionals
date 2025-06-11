@@ -61,7 +61,7 @@ Day |  Time |  Session   | Speakers |
 * [LLM costs](https://www.llm-prices.com/)
 * [LLM Leaderboard Arena](https://lmarena.ai/leaderboard)
 * [Hugging Face LLM Models](https://huggingface.co/)
-* [Synthea^TM^ is a synthetic patient generator that models the medical history of synthetic patients](https://github.com/synthetichealth/synthea/wiki)
+* [**Synthea** is a synthetic patient generator that models the medical history of synthetic patients](https://github.com/synthetichealth/synthea/wiki)
 * [UArizona DataLab Learning Resources](https://ua-datalab.github.io/)
 
 ### General References
