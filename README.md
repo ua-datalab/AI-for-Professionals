@@ -5,6 +5,8 @@ AI Tools for Public Institutions Staff
 
 ***
 
+***
+
 ## Agenda 
 
 * [**Public Health & AI Summer School Event**](https://www.eventbrite.com/e/public-health-ai-summer-school-registration-1343451592879)
@@ -12,6 +14,7 @@ AI Tools for Public Institutions Staff
 
 
 <br>
+***
 
 ### Agenda with link to presentations
 
@@ -37,7 +40,7 @@ Day |  Time |  Session   | Speakers |
 |        | 10:45-12:00  |   [AI Transparency, accountability, bias and discrimination](https://tyson-swetnam.github.io/intro-gpt/ethics/) | Tyson Swetnam | 
 |        | 12:00-13:00  |  **Lunch** | |
 |        | 13:00-14:00 | [Promoting Health Equity with AI](https://drive.google.com/drive/folders/1yhcF_M6on5U4k6YII4uayO_VxyPWIJKh) | Onicio B. Leal Neto |
-|        | 14:00-15:00 | Evaluating AI tools | Enrique Noriega |
+|        | 14:00-15:00 | [Evaluating AI tools: Letting LLMs Be the Judge](https://docs.google.com/presentation/d/1GXe1Q7aftQH3E2WqdrNlnHjkCck9zGtX-mG7u7jq7s0/edit?usp=sharing) | Enrique Noriega |
 |        | 15:30-17:00 | _AI Maker Space III: Standardization of multi-modal datasets_ |  Nirav Merchant |
 |        |              | [Speech-to-Text with Whisper AI](https://github.com/ua-datalab/NLP-Speech/tree/main/Speech_to_Text_with_Whisper) / [Notebook](Speech_to_Text_with_Whisper/Whisper_AI_for_Public_Health.ipynb) | Megh Krishnaswamy |
 | **Jun 12** | 09:00-09:45  | Implementing a roadmap for AI adoption | Nirav Merchant |
