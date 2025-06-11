@@ -31,7 +31,7 @@ Day |  Time |  Session   | Speakers |
 |        | 11:00-12:30 | What is Al? Fundamentals for Public Health | Enrique Noriega |
 |        | 12:30-13:30 | **Lunch** |    |
 |        | 13:30-16:30  | AI Maker Space I: Building Public Health AI agents |  Onicio B. Leal Neto |
-| **Jun 10** | 9:00-9:45 | Data Analysis and Management Skills for AI Nirav Merchant
+| **Jun 10** | 9:00-9:45 | Data Analysis and Management Skills for AI | Nirav Merchant |
 |            | 9:45-10:45 | Panel: Future-ready Public Health - Al-powered modernization | Theresa Cullen, Susan Robinson, Nirav Merchant |
 |        | 10:45-11:15 |  **Break**  |   |
 |        | 11:15-12:15 | Introduction to Key Data Concepts and Technologies (Non-Coding Focus) | Carlos Lizárraga |
