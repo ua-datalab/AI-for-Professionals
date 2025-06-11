@@ -39,6 +39,7 @@ Day |  Time |  Session   | Speakers |
 |        | 13:00-14:00 | [Promoting Health Equity with AI](https://drive.google.com/drive/folders/1yhcF_M6on5U4k6YII4uayO_VxyPWIJKh) | Onicio B. Leal Neto |
 |        | 14:00-15:00 | Evaluating AI tools | Enrique Noriega |
 |        | 15:30-17:00 | _AI Maker Space III: Standardization of multi-modal datasets_ |  Nirav Merchant |
+|        |              | [Speech-to-Text with Whisper AI](https://github.com/ua-datalab/NLP-Speech/tree/main/Speech_to_Text_with_Whisper) / [Notebook](Speech_to_Text_with_Whisper/Whisper_AI_for_Public_Health.ipynb) | Megh Krishnaswamy |
 | **Jun 12** | 09:00-09:45  | Implementing a roadmap for AI adoption | Nirav Merchant |
 |           | 9:45-10:30 | Al-driven public health preparedness | Sameer Halai |
 |           | 10:30-11:00 | **Break**  |   |
