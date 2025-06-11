@@ -5,7 +5,6 @@ AI Tools for Public Institutions Staff
 
 ***
 
-***
 
 ## Agenda 
 
@@ -14,6 +13,7 @@ AI Tools for Public Institutions Staff
 
 
 <br>
+
 ***
 
 ### Agenda with link to presentations
