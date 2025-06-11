@@ -7,10 +7,13 @@ AI Tools for Public Institutions Staff
 
 ## Agenda 
 
-###
 * [**Public Health & AI Summer School Event**](https://www.eventbrite.com/e/public-health-ai-summer-school-registration-1343451592879)
 * [**Download: Detailed Agenda Document**](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/digital%20booklet%20FINAL_.pdf)
 
+
+<br>
+
+### Agenda with link to presentations
 
 Day |  Time |  Session   | Speakers |
 | :--: | :--: | :--  |  :-- |
