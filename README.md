@@ -16,7 +16,7 @@ AI Tools for Public Institutions Staff
 ### Agenda with link to presentations
 
 Day |  Time |  Session   | Speakers |
-| :--: | :--: | :--  |  :-- |
+| :-- | :-- | :--  |  :-- |
 | **Jun 09** | 09:00-09:30 | [Welcome remarks & Summer School overview](https://drive.google.com/drive/folders/1yhcF_M6on5U4k6YII4uayO_VxyPWIJKh) | Dean Iman Hakim, Nirav Merchant, Onicio B. Leal Neto |
 |        | 09:30-10:30 | [Digital Public Health & Digital Epidemiology](https://drive.google.com/drive/folders/1yhcF_M6on5U4k6YII4uayO_VxyPWIJKh) | Onicio B. Leal Neto |
 |        | 10:30-11:00 | **Break** |  |
