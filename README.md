@@ -30,30 +30,30 @@ Day |  Time |  Session   | Speakers |
 |        | 10:30-11:00 | **Break** |  |
 |        | 11:00-12:30 | What is Al? Fundamentals for Public Health | Enrique Noriega |
 |        | 12:30-13:30 | **Lunch** |    |
-|        | 13:30-16:30  | Al Maker Space I: Building Public Health Al agents |  Onicio B. Leal Neto |
-| **Jun 10** | 9:00 - 9 : 4 5 Data Analysis and Management Skills for Al Nirav Merchant
+|        | 13:30-16:30  | AI Maker Space I: Building Public Health AI agents |  Onicio B. Leal Neto |
+| **Jun 10** | 9:00-9:45 | Data Analysis and Management Skills for AI Nirav Merchant
 |            | 9:45-10:45 | Panel: Future-ready Public Health - Al-powered modernization | Theresa Cullen, Susan Robinson, Nirav Merchant |
 |        | 10:45-11:15 |  **Break**  |   |
 |        | 11:15-12:15 | Introduction to Key Data Concepts and Technologies (Non-Coding Focus) | Carlos Lizárraga |
 |        | 12:15-1:00  | Creating reproducible analysis workflows (Lite-Coding focus) | Michele Cosi |
 |        | 13:00- 13:45 | **Lunch** |   |
-|        | 13:45-15:30 | Geospatial Analysis and Al in Public Health |  Tyson Swetnam |
-|        | 15:30-17:00 |  Al Maker Space Il: Prompt engineering for Public  Health matters | Tyson Swetnam |
-| **Jun 11** | 9:00-9:45 |  Ethical and Legal considerations of Al | Tyson Swetnam |
-|        | 9:45-10:30  | Al in patient care and digital health cohorts | Marvin Slepian |
+|        | 13:45-15:30 | Geospatial Analysis and AI in Public Health |  Tyson Swetnam |
+|        | 15:30-17:00 |  AI Maker Space Il: Prompt engineering for Public  Health matters | Tyson Swetnam |
+| **Jun 11** | 9:00-9:45 |  Ethical and Legal considerations of AI | Tyson Swetnam |
+|        | 9:45-10:30  | AI in patient care and digital health cohorts | Marvin Slepian |
 |        | 10:30-10:45 | **Break** |   |
-|        | 10:45-12:00  |   Al Transparency, accountability, bias and discrimination | Tyson Swetnam | 
+|        | 10:45-12:00  |   AI Transparency, accountability, bias and discrimination | Tyson Swetnam | 
 |        | 12:00-13:00  |  **Lunch** | |
-|        | 13:00-14:00 | Promoting Health Equity with Al | Onicio B. Leal Neto |
-|        | 14:00-15:00 | Evaluating Al tools | Enrique Noriega |
-|        | 15:30 - 5:00 Al Maker Space III: Standardization of multi-modal datasets |  Nirav Merchant |
-| **Jun 12** | 9:00-9:45  | Implementing a roadmap for Al adoption | Nirav Merchant |
+|        | 13:00-14:00 | Promoting Health Equity with AI | Onicio B. Leal Neto |
+|        | 14:00-15:00 | Evaluating AI tools | Enrique Noriega |
+|        | 15:30-17:00 | AI Maker Space III: Standardization of multi-modal datasets |  Nirav Merchant |
+| **Jun 12** | 9:00-9:45  | Implementing a roadmap for AI adoption | Nirav Merchant |
 |           | 9:45-10:30 | Al-driven public health preparedness | Sameer Halai |
 |           | 10:30-11:00 | **Break**  |   |
-|           | 11:00-12:00 | Collaborating with Universities and access to NSF Al computational resources | Michele Cosi |
+|           | 11:00-12:00 | Collaborating with Universities and access to NSF AI computational resources | Michele Cosi |
 |           | 12:00-13:15 | **Lunch** | |
 |           |  13:15-14:15 | Digital biomarkers applications in Public Health | Shravan Aras |
-|           | 14:15-16:30 | Al Maker Space IV: Experience showcase | Onicio B. Leal Neto |
+|           | 14:15-16:30 | AI Maker Space IV: Experience showcase | Onicio B. Leal Neto |
 |            |  16:30-17:00 |  Wrap up and closing remarks |   |
 
 
