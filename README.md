@@ -52,10 +52,23 @@ Day |  Time |  Session   | Speakers |
 
 ### Additional useful learning resources
 
-* [Generative AI & Prompt Engineering](https://tyson-swetnam.github.io/intro-gpt/)
-* [AI Landscape & Prompt Engineering](https://docs.google.com/presentation/d/1B8YOy5H0O1WGNXq3AeoSl3Kz5WzHaboI5hBM5tphoz0/edit?usp=sharing)
-* 
+* [AI/ML & Data in Public Health: A Non-Coder's Toolkit!](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga. 
+* [AI Landscape & Prompt Engineering](https://docs.google.com/presentation/d/1B8YOy5H0O1WGNXq3AeoSl3Kz5WzHaboI5hBM5tphoz0/edit?usp=sharing). Carlos Lizárraga.
+* [**GPT101: Generative AI & Prompt Engineering**](https://tyson-swetnam.github.io/intro-gpt/). **Tyson Swetnam**.
+* [LLM costs](https://www.llm-prices.com/)
+* [LLM Leaderboard Arena](https://lmarena.ai/leaderboard)
+* [Hugging Face LLM Models](https://huggingface.co/)
+* [UArizona DataLab Learning Resources](https://ua-datalab.github.io/)
 
+### General References
+
+* [Democratizing Innovation](https://arizona-ua.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01UA_INST:01UA&search_scope=MyInst_and_CI&tab=Everything&docid=alma991048828326203843). von Hippel, Eric.
+* [Weapons of Math Destruction: how big data increases inequality and threatens democracy](https://arizona-ua.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01UA_INST:01UA&search_scope=MyInst_and_CI&tab=Everything&docid=alma991049874329503843). O'Neil, Cathy.
+* [Invisible Women, Data Bias in a World Designef for Men](https://arizona-ua.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01UA_INST:01UA&search_scope=MyInst_and_CI&tab=Everything&docid=alma991049874329503843). Criado Perez, Caroline.
+* [Automating inequality : how high-tech tools profile, police, and punish the poor](https://arizona-ua.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01UA_INST:01UA&search_scope=MyInst_and_CI&tab=Everything&docid=alma991009080139703843). Eubanks, Virginia. (Hard copy only)
+* [Unmasking AI : my mission to protect what is human in a world of machines](https://arizona-ua.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01UA_INST:01UA&search_scope=MyInst_and_CI&tab=Everything&docid=alma991050452212903843). Buolamwini, Joy.
+* [Equitably Applying Artificial Intelligence in the United States Workforce Using Training and Collaboration](https://www.apha.org/policy-and-advocacy/public-health-policy-briefs/policy-database/2025/01/21/equitably-applying-artificial-intelligence-in-the-united-states-workforce). American Public Health Association. 
+ 
 
 ***
  
