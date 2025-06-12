@@ -36,7 +36,7 @@ Day |  Time |  Session   | Speakers |
 |        | 13:45-15:30 | [Geospatial Analysis and AI in Public Health](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/gis/) |  Tyson Swetnam |
 |        | 15:30-17:00 |  _AI Maker Space Il: Prompt engineering for Public  Health matters_ | Tyson Swetnam |
 | **Jun 11** | 09:00-9:45 |  [Ethical and Legal considerations of AI](https://tyson-swetnam.github.io/intro-gpt/ethics/) | Tyson Swetnam |
-|        | 09:45-10:30  | AI in patient care and digital health cohorts | Marvin Slepian |
+|        | 09:45-10:30  | [AI in patient care and digital health cohorts](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/Slepian.AI%20in%20Public%20Health.v3%20trimmed.pdf) | Marvin Slepian |
 |        | 10:30-10:45 | **Break** |   |
 |        | 10:45-12:00  |   [AI Transparency, accountability, bias and discrimination](https://tyson-swetnam.github.io/intro-gpt/ethics/) | Tyson Swetnam | 
 |        | 12:00-13:00  |  **Lunch** | |
