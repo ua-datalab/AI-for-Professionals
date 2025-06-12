@@ -53,6 +53,14 @@ Day |  Time |  Session   | Speakers |
 |            |  16:30-17:00 |  Wrap up and closing remarks |   |
 
 
+### Useful links
+
+* [**AI VERDE**](https://chat.cyverse.ai/)
+* [**CyVerse**](https://cyverse.org/)
+* [**CyVerse Health**](https://soteria.arizona.edu/research-tools/cyverse-health)
+* [**Soteria**](https://soteria.arizona.edu/)
+* [**UArizona DataLab**](https://ua-datalab.github.io/)
+
 ### Additional useful learning resources
 
 * [AI/ML & Data in Public Health: A Non-Coder's Toolkit!](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga. 
@@ -80,3 +88,15 @@ Day |  Time |  Session   | Speakers |
 Created: (04/15/2025) C. Lizárraga
 
 Updated: (06/03/2025) C. Lizárraga
+
+***
+
+<p><table style="width: 100%; table-layout: fixed;">
+  <tr>
+      
+       <td style="width: 500px"><a href="https://publichealth.arizona.edu/"><img src="https://publichealth.arizona.edu/sites/default/files/coph-logo.png" width=500></a></td>
+       <td style="width: 500px">
+      <a href="https://datascience.arizona.edu/"><img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width=500></a></td>
+   </tr>
+</table>
+
