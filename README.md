@@ -49,7 +49,7 @@ Day |  Time |  Session   | Speakers |
 |           | 10:30-11:00 | **Break**  |   |
 |           | 11:00-12:00 | Collaborating with Universities and access to NSF AI computational resources | Michele Cosi |
 |           | 12:00-13:15 | **Lunch** | |
-|           |  13:15-14:15 | Digital biomarkers applications in Public Health | Shravan Aras |
+|           |  13:15-14:15 | [Digital biomarkers applications in Public Health](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/Shravan-summer-ai-school-2025.pdf) | Shravan Aras |
 |           | 14:15-16:30 | _AI Maker Space IV: Experience showcase_ | Onicio B. Leal Neto |
 |            |  16:30-17:00 |  Wrap up and closing remarks |   |
 
