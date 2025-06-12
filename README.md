@@ -92,11 +92,12 @@ Updated: (06/03/2025) C. Lizárraga
 ***
 
 <p><table style="width: 100%; table-layout: fixed;">
-  <tr>
-      
+  <tr>   
        <td style="width: 500px"><a href="https://publichealth.arizona.edu/"><img src="https://publichealth.arizona.edu/sites/default/files/coph-logo.png" width=500></a></td>
        <td style="width: 500px">
       <a href="https://datascience.arizona.edu/"><img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width=500></a></td>
    </tr>
 </table>
+</p>
+
 
