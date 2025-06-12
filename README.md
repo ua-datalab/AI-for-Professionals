@@ -87,7 +87,7 @@ Day |  Time |  Session   | Speakers |
  
 Created: (04/15/2025) C. Lizárraga
 
-Updated: (06/03/2025) C. Lizárraga
+Updated: (06/12/2025) C. Lizárraga
 
 ***
 
