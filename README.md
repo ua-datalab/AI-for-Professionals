@@ -1,6 +1,8 @@
 # Public Health & AI Summer School 2025! 
 AI Tools for Public Institutions Staff 
 
+([**URL:](https://tinyurl.com/AI-NoCoderToolkit)
+
 <img src="https://github.com/ua-datalab/AI-for-Professionals/blob/main/images/AI_DataPublicHealth.png?raw=true" width=840>
 
 ***
