@@ -58,8 +58,12 @@ Day |  Time |  Session   | Speakers |
 * [**AI VERDE**](https://chat.cyverse.ai/)
 * [**CyVerse**](https://cyverse.org/)
 * [**CyVerse Health**](https://soteria.arizona.edu/research-tools/cyverse-health)
+* [**Data Science Institute**](https://datascience.arizona.edu/)
+* [**Jetstream2**](https://jetstream-cloud.org/)
+* [**NAIRR Pilot**](https://nairrpilot.org/)
 * [**Soteria**](https://soteria.arizona.edu/)
 * [**UArizona DataLab**](https://ua-datalab.github.io/)
+* [**Zuckerman College of Public Health**](https://publichealth.arizona.edu/)
 
 ### Additional useful learning resources
 
