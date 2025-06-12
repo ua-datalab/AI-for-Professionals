@@ -59,7 +59,7 @@ Day |  Time |  Session   | Speakers |
 * [**CyVerse**](https://cyverse.org/)
 * [**CyVerse Health**](https://soteria.arizona.edu/research-tools/cyverse-health)
 * [**Data Science Institute**](https://datascience.arizona.edu/)
-* [**Jetstream2**](https://jetstream-cloud.org/)
+* [**NSF Jetstream2**](https://jetstream-cloud.org/)
 * [**NAIRR Pilot**](https://nairrpilot.org/)
 * [**Soteria**](https://soteria.arizona.edu/)
 * [**UArizona DataLab**](https://ua-datalab.github.io/)
