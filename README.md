@@ -47,7 +47,7 @@ Day |  Time |  Session   | Speakers |
 | **Jun 12** | 09:00-09:45  | Implementing a roadmap for AI adoption | Nirav Merchant |
 |           | 9:45-10:30 | Al-driven public health preparedness | Sameer Halai |
 |           | 10:30-11:00 | **Break**  |   |
-|           | 11:00-12:00 | Collaborating with Universities and access to NSF AI computational resources | Michele Cosi |
+|           | 11:00-12:00 | [Collaborating with Universities and access to NSF AI computational resources](https://docs.google.com/presentation/d/1WHmqPjGQ4T4GKD7M7qhPYeEksoo2KCI9upSKRmr9Ryg/edit?usp=sharing) | Michele Cosi |
 |           | 12:00-13:15 | **Lunch** | |
 |           |  13:15-14:15 | [Digital biomarkers applications in Public Health](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/Shravan-summer-ai-school-2025.pdf) | Shravan Aras |
 |           | 14:15-16:30 | _AI Maker Space IV: Experience showcase_ | Onicio B. Leal Neto |
