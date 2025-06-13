@@ -26,7 +26,7 @@ Day |  Time |  Session   | Speakers |
 |        | 11:00-12:30 | [What is Al? Fundamentals for Public Health](https://docs.google.com/presentation/d/1zrspjJogSKOwRkSUx5PEYGVALRiQDPVW/edit?usp=sharing&ouid=106517198578585394777&rtpof=true&sd=true) | Enrique Noriega |
 |        | 13:30-16:30  | _**AI Maker Space I:** Building Public Health AI agents: [Jotform AI Chatbot](https://www.jotform.com/ai/chatbot/)_  |  Onicio B. Leal Neto |
 | **Jun 10** | 09:00-09:45 | [Data Analysis and Management Skills for AI](https://arizona.app.box.com/s/ydcsv3yhdudjlnkuqwugk91uki8ndm46) | Nirav Merchant |
-|            | 09:45-10:45 | Panel: Future-ready Public Health - Al-powered modernization | Theresa Cullen, Susan Robinson, Nirav Merchant |
+|            | 09:45-10:45 | _Panel: Future-ready Public Health - Al-powered modernization_ | Theresa Cullen, Susan Robinson, Nirav Merchant |
 |        | 11:15-12:15 | [Introduction to Key Data Concepts and Technologies (Non-Coding Focus)](https://github.com/ua-datalab/AI-for-Professionals/wiki) | Carlos Lizárraga |
 |        | 12:15-13:00  | [Creating reproducible analysis workflows (Lite-Coding focus)](https://docs.google.com/presentation/d/1-LO9FKafSMWOyPDpZi6NM4nCKW_9J0JTEAO5qvVzxI0/edit?slide=id.g36082ec7c7b_0_1#slide=id.g36082ec7c7b_0_1) | Michele Cosi |
 |        | 13:45-15:30 | [Geospatial Analysis and AI in Public Health](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/gis/) |  Tyson Swetnam |
@@ -43,7 +43,7 @@ Day |  Time |  Session   | Speakers |
 |           | 11:00-12:00 | [Collaborating with Universities and access to NSF AI computational resources](https://docs.google.com/presentation/d/1WHmqPjGQ4T4GKD7M7qhPYeEksoo2KCI9upSKRmr9Ryg/edit?usp=sharing) | Michele Cosi |
 |           |  13:15-14:15 | [Digital biomarkers applications in Public Health](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/Shravan-summer-ai-school-2025.pdf) | Shravan Aras |
 |           | 14:15-16:30 | _**AI Maker Space IV:** Experience showcase_ | Onicio B. Leal Neto |
-|            |  16:30-17:00 |  Wrap up and closing remarks |   |
+|            |  16:30-17:00 |  _Wrap up and closing remarks_ |   |
 
 
 ### Useful links
