@@ -38,7 +38,7 @@ Day |  Time |  Session   | Speakers |
 | **Jun 11** | 09:00-9:45 |  [Ethical and Legal considerations of AI](https://tyson-swetnam.github.io/intro-gpt/ethics/) | Tyson Swetnam |
 |        | 09:45-10:30  | [AI in patient care and digital health cohorts](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/Slepian.AI%20in%20Public%20Health.v3%20trimmed.pdf) | Marvin Slepian |
 |        | 10:30-10:45 | **Break** |   |
-|        | 10:45-12:00  |   [AI Transparency, accountability, bias and discrimination](https://docs.google.com/presentation/d/1LvNKaZPyNUWTY0gZ249nMYt1yqfNK5ShtC4W9jTuzv8/edit?slide=id.g36018e3c418_0_94#slide=id.g36018e3c418_0_94)) | Tyson Swetnam | 
+|        | 10:45-12:00  |   [AI Transparency, accountability, bias and discrimination](https://docs.google.com/presentation/d/1LvNKaZPyNUWTY0gZ249nMYt1yqfNK5ShtC4W9jTuzv8/edit?slide=id.g36018e3c418_0_94#slide=id.g36018e3c418_0_94) | Tyson Swetnam | 
 |        | 12:00-13:00  |  **Lunch** | |
 |        | 13:00-14:00 | [Promoting Health Equity with AI](https://drive.google.com/drive/folders/1yhcF_M6on5U4k6YII4uayO_VxyPWIJKh) | Onicio B. Leal Neto |
 |        | 14:00-15:00 | [Evaluating AI tools: Letting LLMs Be the Judge](https://docs.google.com/presentation/d/1GXe1Q7aftQH3E2WqdrNlnHjkCck9zGtX-mG7u7jq7s0/edit?usp=sharing) | Enrique Noriega |
