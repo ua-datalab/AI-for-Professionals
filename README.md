@@ -26,7 +26,7 @@ Day |  Time |  Session   | Speakers |
 |        | 10:30-11:00 | **Break** |  |
 |        | 11:00-12:30 | [What is Al? Fundamentals for Public Health](https://docs.google.com/presentation/d/1zrspjJogSKOwRkSUx5PEYGVALRiQDPVW/edit?usp=sharing&ouid=106517198578585394777&rtpof=true&sd=true) | Enrique Noriega |
 |        | 12:30-13:30 | **Lunch** |    |
-|        | 13:30-16:30  | _**AI Maker Space I:** Building Public Health AI agents_ |  Onicio B. Leal Neto |
+|        | 13:30-16:30  | _**AI Maker Space I:** Building Public Health AI agents: [Jotform AI Chatbot](https://www.jotform.com/ai/chatbot/)_  |  Onicio B. Leal Neto |
 | **Jun 10** | 09:00-09:45 | [Data Analysis and Management Skills for AI](https://arizona.app.box.com/s/ydcsv3yhdudjlnkuqwugk91uki8ndm46) | Nirav Merchant |
 |            | 09:45-10:45 | Panel: Future-ready Public Health - Al-powered modernization | Theresa Cullen, Susan Robinson, Nirav Merchant |
 |        | 10:45-11:15 |  **Break**  |   |
