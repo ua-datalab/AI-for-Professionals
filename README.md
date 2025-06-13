@@ -45,6 +45,7 @@ Day |  Time |  Session   | Speakers |
 |           | 14:15-16:30 | _**AI Maker Space IV:** Experience showcase_ | Onicio B. Leal Neto |
 |            |  16:30-17:00 |  _Wrap up and closing remarks_ |   |
 
+***
 
 ### Useful links
 
