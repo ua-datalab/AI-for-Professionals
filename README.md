@@ -64,6 +64,7 @@ Day |  Time |  Session   | Speakers |
 * [**NAIRR Pilot**](https://nairrpilot.org/)
 * [**Soteria**](https://soteria.arizona.edu/)
 * [**UArizona DataLab**](https://ua-datalab.github.io/)
+* [**Wehealth.org**](https://wehealth.org/) ([PHapp](https://wehealth.org/news/phapp-download-app-or-view-on-web), [Forum](https://wehealth.org/forum), [Partnership](https://wehealth.org/partnerships), [Toolkit](https://wehealth.org/app/toolkit))
 * [**Zuckerman College of Public Health**](https://publichealth.arizona.edu/)
 
 #### Events Calendars
