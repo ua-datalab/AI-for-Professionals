@@ -74,7 +74,9 @@ Day |  Time |  Session   | Speakers |
 
 * [AI/ML & Data in Public Health: A Non-Coder's Toolkit!](https://github.com/ua-datalab/AI-for-Professionals/wiki). Carlos Lizárraga. 
 * [AI Landscape & Prompt Engineering](https://docs.google.com/presentation/d/1B8YOy5H0O1WGNXq3AeoSl3Kz5WzHaboI5hBM5tphoz0/edit?usp=sharing). Carlos Lizárraga.
-* [**GPT101: Generative AI & Prompt Engineering**](https://tyson-swetnam.github.io/intro-gpt/). **Tyson Swetnam**.
+* [**Generative AI & Prompt Engineering - GPT 101**](https://tyson-swetnam.github.io/intro-gpt/). **Tyson Swetnam**.
+* [**Public Health - GPT 101**](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/casestudy/). **Tyson Swetnam**.
+* [**Map Making - GPT 101**](https://tyson-swetnam.github.io/intro-gpt/tutorials/publichealth/gis/). **Tyson Swetnam**. 
 * [LLM costs](https://www.llm-prices.com/)
 * [LLM Leaderboard Arena](https://lmarena.ai/leaderboard)
 * [Hugging Face LLM Models](https://huggingface.co/)
