@@ -45,7 +45,7 @@ Day |  Time |  Session   | Speakers |
 |        | 15:30-17:00 | _AI Maker Space III: Standardization of multi-modal datasets_ |  Nirav Merchant |
 |        |              | [Speech-to-Text with Whisper AI](https://github.com/ua-datalab/NLP-Speech/tree/main/Speech_to_Text_with_Whisper) / [Notebook](Speech_to_Text_with_Whisper/Whisper_AI_for_Public_Health.ipynb) | Megh Krishnaswamy |
 | **Jun 12** | 09:00-09:45  | Implementing a roadmap for AI adoption | Nirav Merchant |
-|           | 9:45-10:30 | Al-driven public health preparedness | Sameer Halai |
+|           | 9:45-10:30 | [Al-driven Public Health Preparedness](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/2025-06-Wehealth-PHappUofA-AISummerSchool.pdf) | Sameer Halai |
 |           | 10:30-11:00 | **Break**  |   |
 |           | 11:00-12:00 | [Collaborating with Universities and access to NSF AI computational resources](https://docs.google.com/presentation/d/1WHmqPjGQ4T4GKD7M7qhPYeEksoo2KCI9upSKRmr9Ryg/edit?usp=sharing) | Michele Cosi |
 |           | 12:00-13:15 | **Lunch** | |
