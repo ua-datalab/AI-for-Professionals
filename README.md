@@ -27,7 +27,7 @@ Day |  Time |  Session   | Speakers |
 |        | 11:00-12:30 | [What is Al? Fundamentals for Public Health](https://docs.google.com/presentation/d/1zrspjJogSKOwRkSUx5PEYGVALRiQDPVW/edit?usp=sharing&ouid=106517198578585394777&rtpof=true&sd=true) | Enrique Noriega |
 |        | 12:30-13:30 | **Lunch** |    |
 |        | 13:30-16:30  | _AI Maker Space I: Building Public Health AI agents_ |  Onicio B. Leal Neto |
-| **Jun 10** | 09:00-09:45 | Data Analysis and Management Skills for AI | Nirav Merchant |
+| **Jun 10** | 09:00-09:45 | [Data Analysis and Management Skills for AI](https://arizona.app.box.com/s/ydcsv3yhdudjlnkuqwugk91uki8ndm46) | Nirav Merchant |
 |            | 09:45-10:45 | Panel: Future-ready Public Health - Al-powered modernization | Theresa Cullen, Susan Robinson, Nirav Merchant |
 |        | 10:45-11:15 |  **Break**  |   |
 |        | 11:15-12:15 | [Introduction to Key Data Concepts and Technologies (Non-Coding Focus)](https://github.com/ua-datalab/AI-for-Professionals/wiki) | Carlos Lizárraga |
@@ -38,13 +38,13 @@ Day |  Time |  Session   | Speakers |
 | **Jun 11** | 09:00-9:45 |  [Ethical and Legal considerations of AI](https://tyson-swetnam.github.io/intro-gpt/ethics/) | Tyson Swetnam |
 |        | 09:45-10:30  | [AI in patient care and digital health cohorts](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/Slepian.AI%20in%20Public%20Health.v3%20trimmed.pdf) | Marvin Slepian |
 |        | 10:30-10:45 | **Break** |   |
-|        | 10:45-12:00  |   [AI Transparency, accountability, bias and discrimination](https://tyson-swetnam.github.io/intro-gpt/ethics/) | Tyson Swetnam | 
+|        | 10:45-12:00  |   [AI Transparency, accountability, bias and discrimination]([https://tyson-swetnam.github.io/intro-gpt/ethics/](https://docs.google.com/presentation/d/1LvNKaZPyNUWTY0gZ249nMYt1yqfNK5ShtC4W9jTuzv8/edit?slide=id.g36018e3c418_0_94#slide=id.g36018e3c418_0_94)) | Tyson Swetnam | 
 |        | 12:00-13:00  |  **Lunch** | |
 |        | 13:00-14:00 | [Promoting Health Equity with AI](https://drive.google.com/drive/folders/1yhcF_M6on5U4k6YII4uayO_VxyPWIJKh) | Onicio B. Leal Neto |
 |        | 14:00-15:00 | [Evaluating AI tools: Letting LLMs Be the Judge](https://docs.google.com/presentation/d/1GXe1Q7aftQH3E2WqdrNlnHjkCck9zGtX-mG7u7jq7s0/edit?usp=sharing) | Enrique Noriega |
 |        | 15:30-17:00 | _AI Maker Space III: Standardization of multi-modal datasets_ |  Nirav Merchant |
 |        |              | [Speech-to-Text with Whisper AI](https://github.com/ua-datalab/NLP-Speech/tree/main/Speech_to_Text_with_Whisper) / [Notebook](Speech_to_Text_with_Whisper/Whisper_AI_for_Public_Health.ipynb) | Megh Krishnaswamy |
-| **Jun 12** | 09:00-09:45  | Implementing a roadmap for AI adoption | Nirav Merchant |
+| **Jun 12** | 09:00-09:45  | [Implementing a roadmap for AI adoption](https://arizona.app.box.com/s/q26acmgwds10qc8w3rtyjg46qrex2xcu) | Nirav Merchant |
 |           | 9:45-10:30 | [Al-driven Public Health Preparedness](https://github.com/ua-datalab/AI-for-Professionals/blob/main/docs/2025-06-Wehealth-PHappUofA-AISummerSchool.pdf) | Sameer Halai |
 |           | 10:30-11:00 | **Break**  |   |
 |           | 11:00-12:00 | [Collaborating with Universities and access to NSF AI computational resources](https://docs.google.com/presentation/d/1WHmqPjGQ4T4GKD7M7qhPYeEksoo2KCI9upSKRmr9Ryg/edit?usp=sharing) | Michele Cosi |
