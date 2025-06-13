@@ -1,6 +1,6 @@
 # Public Health & AI Summer School 2025! 
 
-[**This URL: https://tinyurl.com/AI-PH-2025**](https://tinyurl.com/AI-PH-2025)
+**This URL:** [**https://tinyurl.com/AI-PH-2025**](https://tinyurl.com/AI-PH-2025)
 
 <img src="https://github.com/ua-datalab/AI-for-Professionals/blob/main/images/AI_DataPublicHealth.png?raw=true" width=840>
 
